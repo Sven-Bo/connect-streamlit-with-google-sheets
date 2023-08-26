@@ -1,0 +1,3 @@
+pandas==2.0.1
+streamlit==1.25.0
+streamlit_gsheets==0.0.1
